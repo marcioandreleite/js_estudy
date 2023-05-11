@@ -1,0 +1,6 @@
+/* body */
+body {
+    max-width: var(--size-twentynine);
+    margin: auto;
+    background-color: var(--cor-bg);
+}
