@@ -26,7 +26,7 @@ db1.connect()
 const db2 = Database.getDatabase('localhost', 'root', '123456')
 db2.connect()
 
-const 3 = Database.getDatabase('localhost', 'root', '123456')
+const db3 = Database.getDatabase('localhost', 'root', '123456')
 db3.connect()
 
 const db4 = Database.getDatabase('localhost', 'root', '123456')
